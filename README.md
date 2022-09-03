@@ -34,8 +34,7 @@ The programme may change according to the event flow.
 
 ## EVENT SPONSORS
 
-- Check Point
-- Tarsus
+... In progress (Not Onboarded)
 
 ## CONTACTS
 
