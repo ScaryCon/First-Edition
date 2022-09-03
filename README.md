@@ -1,3 +1,5 @@
+![Logo](Assets/scarycon-logo-rep.png)
+
 # SCARYCON WORKSHOP
 
 ScaryCon is a South African Cybersecurity and Cyber Intelligence Conference sponsored by SSA, CPB, ScaryByte and Vulnerability Group.
