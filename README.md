@@ -41,3 +41,13 @@ The programme may change according to the event flow and editions.
 - Support and Sales: support@scarycon.co.za
 - Expert/Company Subscription: presenter@scarycon.co.za
 - Website (Under Construction): https://www.scarycon.co.za
+
+## TERMS
+
+### AUDIENCE
+
+The audience is only invited by the sponsors and the appointed law enforcement agencies.
+
+### PRESENTERS
+
+Presenters can submit their requests via email by addind the presention or demonstration topic. The requests topics should be alligned with the Workshop Programme.
