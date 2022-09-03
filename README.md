@@ -24,7 +24,6 @@ The programme may change according to the event flow.
 
 ###  Hackers Unleashed (Day 2)
 
-- Social Engineering
 - Red Teaming
 - Interception
 - Data Processing For Law Enforcement (+OSINT)
@@ -37,3 +36,8 @@ The programme may change according to the event flow.
 
 - Check Point
 - Tarsus
+
+## CONTACTS
+
+support@scarycon.co.za
+presenter@scarycon.co.za
