@@ -39,5 +39,5 @@ The programme may change according to the event flow.
 
 ## CONTACTS
 
-support@scarycon.co.za
-presenter@scarycon.co.za
+Support and Sales: support@scarycon.co.za
+Expert/Company Subscription: presenter@scarycon.co.za
