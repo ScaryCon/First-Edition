@@ -10,13 +10,13 @@ The programme may change according to the event flow.
 
 ### Introduction (Day 1)
 
-- Cybersecurity Presentations
+- Cybersecurity Presentations:
   - Red and Blue Teaming (1 Hour)
   - Social Engineering (1 Hour)
   - Managed Services (1 Hour)
 
 
-- Cyber Intelligence Presentations
+- Cyber Intelligence Presentations:
   - Counter Espionage (1 Hour)
   - Counter Intelligence (1 Hour)
   - Interception (1 Hour)
@@ -34,7 +34,7 @@ The programme may change according to the event flow.
 
 ## EVENT SPONSORS
 
-... In progress (Not Onboarded)
+... Not Appointed
 
 ## CONTACTS
 
