@@ -8,7 +8,7 @@ ScaryCon is a South African Cybersecurity and Cyber Intelligence Conference spon
 
 The programme may change according to the event flow.
 
-### Introduction Session (Day 1)
+### Introduction (Day 1)
 
 - Cybersecurity Presentations
   - Red and Blue Teaming (1 Hour)
@@ -22,7 +22,7 @@ The programme may change according to the event flow.
   - Interception (1 Hour)
   - Data Procession (1 Hour)
 
-### Demo Day (Day 2)
+###  Hackers Unleashed (Day 2)
 
 - Social Engineering
 - Penetration Testing
@@ -30,6 +30,6 @@ The programme may change according to the event flow.
 - TECHINT
 - Data Processing For Law Enforcement (+OSINT)
 
-## WORKSHOP OVERVIEW
+## PRESENTERS
 
 ... In progress
