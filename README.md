@@ -8,22 +8,25 @@ The programme may change according to the event flow.
 
 ### Introduction Session (Day 1)
 
-- Cybersecurity
+- Cybersecurity Presentations
   - Red and Blue Teaming (1 Hour)
   - Social Engineering (1 Hour)
   - Managed Services (1 Hour)
 
 
-- Cyber Intelligence
+- Cyber Intelligence Presentations
   - Counter Espionage (1 Hour)
   - Counter Intelligence (1 Hour)
   - Interception (1 Hour)
   - Data Procession (1 Hour)
 
-### Demo Day
+### Hacker's Day (Day 2)
 
 
-- [x] Social Engineering
+- [ ] Social Engineering
 - [ ] Ransomware Attack
 - [ ] Spyware
 - [ ] Interception
+
+## WORKSHOP OVERVIEW
+
