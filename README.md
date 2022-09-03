@@ -40,6 +40,7 @@ The programme may change according to the event flow and editions.
 
 - Support and Sales: support@scarycon.co.za
 - Expert/Company Subscription: presenter@scarycon.co.za
+- Sponsoring: sponsors@scarycon.co.za
 - Website (Under Construction): https://www.scarycon.co.za
 
 ## TERMS
