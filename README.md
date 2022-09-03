@@ -20,13 +20,16 @@ The programme may change according to the event flow.
   - Interception (1 Hour)
   - Data Procession (1 Hour)
 
-### Hacker's Day (Day 2)
+### Demo Day (Day 2)
 
 
 - [ ] Social Engineering
-- [ ] Ransomware Attack
-- [ ] Spyware
-- [ ] Interception
+- [ ] Penetration Testing
+- [ ] Vulnerability Scanning
+- [ ] SIGINT
+- [ ] OSINT
+- [ ] TECHINT
 
 ## WORKSHOP OVERVIEW
 
+... In progress
