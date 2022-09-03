@@ -51,4 +51,4 @@ The audience is only invited by the sponsors and the appointed law enforcement a
 
 ### PRESENTERS
 
-Presenters can submit their requests via email by addind the presention or demonstration topic. The topics should be alligned with the Workshop Programme.
+Presenters can submit their requests via email by adding the presention or demonstration topic. The topics should be alligned with the Workshop Programme.
