@@ -22,13 +22,11 @@ The programme may change according to the event flow.
 
 ### Demo Day (Day 2)
 
-
-- [ ] Social Engineering
-- [ ] Penetration Testing
-- [ ] Vulnerability Scanning
-- [ ] SIGINT
-- [ ] OSINT
-- [ ] TECHINT
+- Social Engineering
+- Penetration Testing
+- SIGINT
+- TECHINT
+- Data Processing For Law Enforcement (+OSINT)
 
 ## WORKSHOP OVERVIEW
 
