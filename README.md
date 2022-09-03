@@ -4,4 +4,4 @@
 
 ## Programme
 
-- [x]: Spoofing Attack
+- [x] Spoofing Attack
