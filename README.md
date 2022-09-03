@@ -2,7 +2,7 @@
 
 # SCARYCON WORKSHOP (Under Revision)
 
-ScaryCon is a South African Cybersecurity and Cyber Intelligence Workshop mainly sponsored by SSA, CPB, ScaryByte and Vulnerability Group.
+ScaryCon is a South African Cybersecurity and Cyber Intelligence Workshop mainly sponsored by SSA, CPB, ScaryByte and Vulnerability Group. The main objective of the Workshop is to present possible advanced solutions to prevent crime.
 
 ## GENERAL PROGRAMME
 
